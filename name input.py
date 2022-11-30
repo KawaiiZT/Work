@@ -1,0 +1,7 @@
+a=int(input())
+print(a)
+print(type(a))
+name = input("ชื่อของคุณคือ")
+surname = input("นามสกุลคือ")
+age = input("อายุ")
+print ("ฉันชื่อ",name,"นามสกุน",surname,"อายุ",age)
