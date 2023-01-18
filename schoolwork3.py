@@ -35,3 +35,19 @@ if select == 'b':
     print('menu b:',menu_b)
 else:
     print('no this menu is not in the menu list')
+
+print('Choose BTS STATION from 1 - 10:')
+select=int(input())
+if select==0:
+    if select==1:
+        print('15 baht')
+    elif select==2:
+        print('20 baht')
+    elif select>=3 and select <=4:
+        print('30 baht')
+    elif select>=5 and select <=6:
+        print('40 baht')
+    elif select>= 7:
+        print('50 baht')
+    else:
+        print('error')
