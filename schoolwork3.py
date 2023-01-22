@@ -51,3 +51,19 @@ if select==0:
         print('50 baht')
     else:
         print('error')
+
+print(abs(-10))
+print(bin(7))
+print(hex(100))
+print(ord('a'))
+print(pow(3,4))
+x=range(1,100,2)
+for n in x:
+    print(n)
+num=[12,100,5,97]
+print(max(num))
+print(min(num))
+print(oct(15))
+a=12.567
+print(round(a,2))
+print(sum(num))
