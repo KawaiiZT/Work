@@ -67,3 +67,13 @@ print(oct(15))
 a=12.567
 print(round(a,2))
 print(sum(num))
+
+from turtle import *
+forward(100)
+right(90)
+forward(100)
+right(90)
+forward(100)
+right(90)
+forward(100)
+right(90)
