@@ -90,3 +90,9 @@ def message(a,b):
     print('Name:',a)
     print('surname:',b)
 message('Trisit','Charoenparipat')
+
+def volume(width,height,depth):
+    v=widthheightdepth
+    print('volume:',v)
+    return v
+volume (20,20,20)
