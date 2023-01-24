@@ -86,3 +86,7 @@ for x in range(360):
     forward(x)
     left(59)
 
+def message(a,b):
+    print('Name:',a)
+    print('surname:',b)
+message('Trisit','Charoenparipat')
